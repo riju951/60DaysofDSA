@@ -14,3 +14,10 @@
   Type Casting
   Type Promotion
   How code is run using JRE.
+
+## Day 3 :
+  Learned about Operators
+    Arithmetic Operator - + - * / %
+    Relational Operator  -  < > <= >= = !=
+    Logical Operator - && || !
+    Assignment Operator - += -= *= /= %=
