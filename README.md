@@ -21,3 +21,7 @@
     Relational Operator  -  < > <= >= = !=
     Logical Operator - && || !
     Assignment Operator - += -= *= /= %=
+
+## Day 4 :
+  Learned about Conditionals statements
+    iF else, else if, ternary operator, switch
