@@ -25,3 +25,6 @@
 ## Day 4 :
   Learned about Conditionals statements
     iF else, else if, ternary operator, switch
+
+## Day 5 :
+  Learned about looops, while, do while and for loops and also about %,*,/ plays in reverse.
