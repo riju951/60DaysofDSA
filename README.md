@@ -28,3 +28,8 @@
 
 ## Day 5 :
   Learned about looops, while, do while and for loops and also about %,*,/ plays in reverse.
+
+## Day 6 & 7 : Rest
+
+## Day 8 
+  Practiced question on Patterns
