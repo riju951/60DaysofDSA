@@ -1,0 +1,35 @@
+The Java Math class provides methods for performing basic numerical operations. Here are the methods you listed, with explanations and correct usage, including a correction for one of the methods:
+
+Math.min(a, b): Returns the smaller of two values. You can use it to find the minimum of two numbers. For example, Math.min(5, 10) would return 5.
+
+Math.max(a, b): Returns the larger of two values. This is used to find the maximum of two numbers. For example, Math.max(5, 10) would return 10.
+
+Math.sqrt(a): Returns the square root of a value. If you want to calculate the square root of a number, you would use this method. For instance, Math.sqrt(16) would return 4.
+
+Math.pow(a, b): Returns the value of the first argument raised to the power of the second argument. It's used for exponentiation. For example, Math.pow(2, 3) would return 8, as it calculates 
+2
+3
+2 
+3
+ .
+
+Math.abs(a): Returns the absolute value of a number. This method is used to remove any negative sign from a number, making it positive. For example, Math.abs(-5) would return 5.
+
+The Math.avg() method does not exist in the Java Math class. To calculate the average of numbers, you would typically sum them up and then divide by the count of the numbers. Java's Math class does not provide a direct method for calculating averages because it's a basic arithmetic operation that can be easily implemented with the addition (+) and division (/) operators.The Java Math class provides methods for performing basic numerical operations. Here are the methods you listed, with explanations and correct usage, including a correction for one of the methods:
+
+Math.min(a, b): Returns the smaller of two values. You can use it to find the minimum of two numbers. For example, Math.min(5, 10) would return 5.
+
+Math.max(a, b): Returns the larger of two values. This is used to find the maximum of two numbers. For example, Math.max(5, 10) would return 10.
+
+Math.sqrt(a): Returns the square root of a value. If you want to calculate the square root of a number, you would use this method. For instance, Math.sqrt(16) would return 4.
+
+Math.pow(a, b): Returns the value of the first argument raised to the power of the second argument. It's used for exponentiation. For example, Math.pow(2, 3) would return 8, as it calculates 
+2
+3
+2 
+3
+ .
+
+Math.abs(a): Returns the absolute value of a number. This method is used to remove any negative sign from a number, making it positive. For example, Math.abs(-5) would return 5.
+
+The Math.avg() method does not exist in the Java Math class. To calculate the average of numbers, you would typically sum them up and then divide by the count of the numbers. Java's Math class does not provide a direct method for calculating averages because it's a basic arithmetic operation that can be easily implemented with the addition (+) and division (/) operators.
