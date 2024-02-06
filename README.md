@@ -34,3 +34,6 @@
 
 ## Day 8 
   Practiced question on Patterns
+  
+## Day 9
+  Learned about Functions, Call Stack, call by value, Function overloading, Optimized, B to D, D to B, Function scope, Decimal Scope, Acutual parameters or arguments, Parameters or Formal Parameters.
