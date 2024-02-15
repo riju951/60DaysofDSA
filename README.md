@@ -37,3 +37,6 @@
   
 ## Day 9
   Learned about Functions, Call Stack, call by value, Function overloading, Optimized, B to D, D to B, Function scope, Decimal Scope, Acutual parameters or arguments, Parameters or Formal Parameters.
+
+## Day 17
+  Learned about Bitwise Manipulation : Operatores - & | ^ ~ << >>,Get ith Bit, Set ith Bit, clear ith bit, update ith bit, clear last i bits, clear range if bits, power of 2 or not, count set bits, fast exponetiation
