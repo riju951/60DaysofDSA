@@ -32,6 +32,8 @@
 ## Day 6 & 7 
   Rest
 
+## Day 8
+
 ## Day 8 
   Practiced question on Patterns
   
