@@ -42,3 +42,6 @@
 
 ## Day 17
   Learned about Bitwise Manipulation : Operatores - & | ^ ~ << >>,Get ith Bit, Set ith Bit, clear ith bit, update ith bit, clear last i bits, clear range if bits, power of 2 or not, count set bits, fast exponetiation
+
+## Day 20
+  Learned about Recurison, function calling itself.
